@@ -1,3 +1,4 @@
+//program to check number equal or not
 #include <stdio.h>
 void main()
 {
