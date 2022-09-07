@@ -1,3 +1,4 @@
+//vote eligibility checker program
 #include <stdio.h>
 void main()
 {
