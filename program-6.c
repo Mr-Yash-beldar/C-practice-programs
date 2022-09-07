@@ -1,3 +1,4 @@
+//logic developing program
 #include <stdio.h>
 void main()
 {
